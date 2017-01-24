@@ -1,0 +1,67 @@
+<nav id="mainSiteNavBar" class="navbar-default navbar-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav" id="main-menu">
+        <li class="text-center">
+            </li>
+        
+            <li>
+                <a href="/en/index.shtml"><img src="/assets/img/en.png" width="32"/> English version</a>
+            </li>
+            
+            <li>
+                <a href="/es/index.shtml"><i class="fa fa-navicon fa-2x"></i> Principal</a>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-navicon fa-2x"></i> Programación Competitiva<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li>
+                        <a href="#">ACM ICPC<span class="fa arrow"></span></a>
+                        <ul class="nav nav-third-level">
+                            <li>
+                                <a href="/es/participante.shtml"> Participante</a>
+                            </li>
+                            <li>
+                                <a href="/es/entrenador.shtml"> Entrenador</a>
+                            </li>
+                            <li>
+                                <a href="/es/jurado.shtml"> Jurado y autor de problemas</a>
+                            </li>
+
+                        </ul>
+                       
+                    </li>
+                    <li>
+                        <a href="/es/topcoder.shtml"> TopCoder</a>
+                    </li>
+                    <li>
+                        <a href="/es/codejam.shtml"> Google CodeJam</a>
+                    </li>
+                    <li>
+                        <a href="/es/otrascompetencias.shtml"> Otras competencias</a>
+                    </li>
+                </ul>
+            </li>  
+            <li>
+                <a  href="/es/oma.shtml"><i class="fa fa-navicon fa-2x"></i> Olimpíadas de matemática</a>
+            </li>
+            <li>
+                <a  href="/es/cursos.shtml"><i class="fa fa-navicon fa-2x"></i> Cursos brindados</a>
+            </li>
+            <li>
+                <a  href="/es/laboral.shtml"><i class="fa fa-navicon fa-2x"></i> Experiencia laboral</a>
+            </li>
+            <li>
+                <a  href="/es/docente.shtml"><i class="fa fa-navicon fa-2x"></i> Experiencia docente</a>
+            </li>
+            <li>
+                <a  href="/es/investigacion.shtml"><i class="fa fa-navicon fa-2x"></i> Experiencia en la investigación</a>
+            </li>
+            <li>
+                <a  href="/es/otros.shtml"><i class="fa fa-navicon fa-2x"></i> Otras actividades</a>
+            </li>
+            </li>               
+        </ul>
+       
+    </div>
+    
+</nav>

@@ -1,0 +1,56 @@
+<!-- SCRIPTS -AT THE BOTOM TO REDUCE THE LOAD TIME-->
+<!-- JQUERY SCRIPTS -->
+<script src="/assets/js/jquery-1.10.2.js"></script>
+<!-- BOOTSTRAP SCRIPTS -->
+<script src="/assets/js/bootstrap.min.js"></script>
+<!-- METISMENU SCRIPTS -->
+<script src="/assets/js/jquery.metisMenu.js"></script>
+<!-- MORRIS CHART SCRIPTS and CUSTOM SCRIPTS
+     Register them to be loaded *after* the rest of the webpage is already loaded
+-->
+<script>
+    $(document).ready(function () {
+        $.getScript("/assets/js/morris/raphael-2.1.0.min.js");
+        $.getScript("/assets/js/morris/morris.js");
+        $.getScript("/assets/js/custom.js");
+    });
+</script>
+<!-- Nav bar "collapse" magic -->
+<script>
+    var sanitizePathName = function (pathname) {
+        var ret = "";
+        var prev = null;
+        for (var i = 0; i < pathname.length; i++) {
+            if (!(pathname[i] === '/' && prev === '/'))
+                ret += pathname[i]; // Cuadratic processing, why not.
+            prev = pathname[i];
+        }
+        return ret;
+    };
+    var currentPathname = sanitizePathName(document.location.pathname);
+    var index = currentPathname.lastIndexOf('/');
+    if (index < 0 || currentPathname[currentPathname.length - 1] == '/') {
+        pathLevel = 1;
+        currentPathname = "/index.shtml";
+    }
+    else
+        pathLevel = currentPathname.split('/').length - 1;
+    $("#mainSiteNavBar [href]").each(function (idx, element){
+        if (element.getAttribute("href") == currentPathname) {
+            $(element).attr("class", "active-menu");
+            $(element).attr("href", "#");
+            if (pathLevel > 1) {
+                var p = $(element).parent().parent();
+                var newClass = p.attr("class") + " collapse in";
+                p.attr("class", newClass);
+                p.parent().children("a").attr("class", "active-menu");
+                if (pathLevel > 2) {
+                    p = p.parent().parent();
+                    var newClass = p.attr("class") + " collapse in";
+                    p.attr("class", newClass);
+                    p.parent().children("a").attr("class", "active-menu");
+                }
+            }
+        }
+    });    
+</script>

@@ -1,0 +1,24 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Participante en ACM ICPC</h2>
+                        <p>Mi participación en ACM ICPC comenzó en el año 2008, en equipo con Pablo Gauna y Quimey Vivas. Ese año participé de la competencia local de la Universidad de Buenos Aires y clasifiqué a la competencia regional latinoamericana donde obtuve el 7mo puesto. El equipo con el que representé a la Facultad de Ciencias Exactas y Naturales de la UBA fue el equipo TVG, nombre que mantuvimos hasta 2010.</p>
+                        <p>En 2009, con el mismo equipo y entrenados por Agustín Gutiérrez volví a clasificar a la competencia regional latinoamericana, donde obtuve esta vez el 4to puesto a nivel latinoamericano y el 1er puesto en la región Sudamérica/Sur, integrada por Argentina, Bolivia, Chile, Paraguay, Perú y Uruguay, clasificando a la final mundial. Este año resolvimos con mi equipo 9 problemas, un record para equipos argentinos que sólo fue igualado por el equipo Caloventor en Dos de la Universidad Nacional de Rosario en 2015, del cual fui el entrenador.</p>
+                        <p>En 2010 obtuve el puesto 72 a nivel mundial resolviendo 3 problemas en la final mundial realizada en Harbin, China.</p>
+                        <p>También en 2010, volví a clasificar a la competencia regional latinoamericana, esta vez en equipo con Pablo Gauna y Germán Stefanich, y entrenados por Quimey Vivas, obteniendo el 4to puesto en la región Sur, con la misma cantidad de problemas (8) que el equipo que obtuvo el primer lugar. Si bien nuestra posición nos alcanzaba para clasificar a la final mundial, al quedar abajo de otro equipo de la Universidad de Buenos Aires no pudimos acceder a un cupo para representar a nuestra universidad en la final.</p>
+                        <p>En 2011, con el mismo equipo pero esta vez bajo el nombre GLP, clasificamos a la final mundial al obtener el 3er puesto en la región. Además, obtuvimos el segundo puesto en el primer Torneo Argentino de Programación.</p>
+                        <p>En 2012 obtuve con mi equipo el puesto 49, y segundos a nivel latinoamericano en la final mundial realizada en Varsovia. Esta fue mi última participación dado que existe una regla que dice que un participante no puede volver a competir luego de participar de dos finales mundiales.    </p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

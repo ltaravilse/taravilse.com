@@ -1,0 +1,22 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Participation and Problem Setting at TopCoder</h2>
+                        <p>I've participated in TopCoder since 2008, taking part of over 200 algorithm contests and over 30 Marathon Matches, reaching a red color rating of 2242 in the Algorithm track. (contestants in TopCoder are divided in different colors being red the color asigned for the top rated coders). I've been at the top 3% and ranked 245 worldwide as my better ranking.</p>
+                        <p>I also wrote over 30 problems for TopCoder competitions, including a problem for a TopCoder Open. A list of the problems I wrote can be found <a href="https://www.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=ltaravilse">here</a></p>
+                        <p>In 2017 I was chosen by the community to represent it in the Community Advisory Board (CAB) making me a middleman between the community and TopCoder.</p>
+                        <p><a href="https://www.topcoder.com/members/ltaravilse">Link to my TopCoder profile</a></p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

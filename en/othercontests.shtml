@@ -1,0 +1,23 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Participation at other programming competitions</h2>
+                        <p>Besides the competitions already listed on this website, I participated on:</p>
+                        <ul>
+                            <li><b>Facebook Hacker Cup:</b> Reaching Round 3 (top 200) on 2016 as my best result. In 2015 during my internship at Facebook I was the author of problem C (<a href="https://www.facebook.com/hackercup/problem/847639175277938/">Gentrification</a>) on Round 3 and part of the finals problem testing team.</li>
+                            <li><b>CodeForces:</b> Reaching a top rating of 2009 (<a href="http://codeforces.com/profile/ltaravilse">Link to profile</a>).</li>
+                            <li><b>HackerRank:</b> Reaching the top 1% on the rankings (<a href="https://www.hackerrank.com/ltaravilse">Link to profile</a>).</li>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

@@ -1,0 +1,20 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Leopoldo Taravilse's website</h2>
+                        <p><a href="/resume-leopoldo-taravilse.pdf">Resume</a></p>
+                        <p><a href="https://www.linkedin.com/in/ltaravilse/">LinkedIn Profile</a></p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

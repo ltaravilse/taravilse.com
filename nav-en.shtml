@@ -1,0 +1,67 @@
+<nav id="mainSiteNavBar" class="navbar-default navbar-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav" id="main-menu">
+        <li class="text-center">
+            </li>
+        
+            <li>
+                <a href="/es/index.shtml"><img src="/assets/img/es.png" width="32"/> Versión en español</a>
+            </li>
+            
+            <li>
+                <a href="/en/index.shtml"><i class="fa fa-navicon fa-2x"></i> Main</a>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-navicon fa-2x"></i> Competitive programming<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li>
+                        <a href="#">ACM ICPC<span class="fa arrow"></span></a>
+                        <ul class="nav nav-third-level">
+                            <li>
+                                <a href="/en/contestant.shtml"> Contestant</a>
+                            </li>
+                            <li>
+                                <a href="/en/coach.shtml"> Coach</a>
+                            </li>
+                            <li>
+                                <a href="/en/jury.shtml"> Jury and problemsetter</a>
+                            </li>
+
+                        </ul>
+                       
+                    </li>
+                    <li>
+                        <a href="/en/topcoder.shtml"> TopCoder</a>
+                    </li>
+                    <li>
+                        <a href="/en/codejam.shtml"> Google CodeJam</a>
+                    </li>
+                    <li>
+                        <a href="/en/othercontests.shtml"> Other contests</a>
+                    </li>
+                </ul>
+            </li>  
+            <li>
+                <a  href="/en/matholympiads.shtml"><i class="fa fa-navicon fa-2x"></i> Maths olympiads</a>
+            </li>
+            <li>
+                <a  href="/en/courses.shtml"><i class="fa fa-navicon fa-2x"></i> Courses given</a>
+            </li>
+            <li>
+                <a  href="/en/work.shtml"><i class="fa fa-navicon fa-2x"></i> Work experience</a>
+            </li>
+            <li>
+                <a  href="/en/teaching.shtml"><i class="fa fa-navicon fa-2x"></i> Teaching experience</a>
+            </li>
+            <li>
+                <a  href="/en/research.shtml"><i class="fa fa-navicon fa-2x"></i> Research experience</a>
+            </li>
+            <li>
+                <a  href="/en/others.shtml"><i class="fa fa-navicon fa-2x"></i> Other activities</a>
+            </li>
+            </li>               
+        </ul>
+       
+    </div>
+    
+</nav>

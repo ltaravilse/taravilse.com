@@ -1,0 +1,23 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Jury and Problemsetter at ACM ICPC</h2>
+                        <p>In 2012, soon after I finished my participation as a contestant in ACM ICPC, I started working as a jury and problem setter. This year I wrote 3 problems for the Argentina's Programming Tournament (TAP). Those problems were D (<a href="http://www.spoj.com/problems/TAP2012D/">Designing T-Shirts</a>), E (<a href="http://www.spoj.com/problems/TAP2012E/">Emma's Domino</a>) and I (<a href="http://www.spoj.com/problems/TAP2012I/">In Debt</a>).</p>
+                        <p>In 2013 I also wrote a problem for the TAP, problem B (<a href="http://www.spoj.com/problems/TAP2013B/">Elections</a>). I also wrote problems F (<a href="https://icpcarchive.ecs.baylor.edu/external/65/6530.pdf">Football</a>) and I (<a href="https://icpcarchive.ecs.baylor.edu/external/65/6533.pdf">Inverting Huffman</a>) for the Latin American Regional contest.</p>
+                        <p>In 2014 I wrote problems G (<a href="http://www.spoj.com/problems/TAP2014G/">Gallantry</a>) and J (<a href="http://www.spoj.com/problems/TAP2014J/">Distracted Judges</a>) for the TAP and problem D (<a href="https://icpcarchive.ecs.baylor.edu/external/68/6824.pdf">Dividing the names</a>) for the Latin American Regional contest.</p>
+                        <p>After leaving from the jury for coaching teams in 2015, I returned in 2016 to the problem setting and jury tasks with problems E (<a href="http://www.spoj.com/problems/TAP2016E/">Grumpy Uncle</a>), F (<a href="http://www.spoj.com/problems/TAP2016F/">No English translation yet</a>) and J (<a href="http://www.spoj.com/problems/TAP2016J/">Joining Lines</a>).</p>
+                        <p>During all this years I was member of the jury in the Buenos Aires site of the TAP and the Latin American Regionals.</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

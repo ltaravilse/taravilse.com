@@ -1,0 +1,70 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Participation at Google CodeJam</h2>
+                        <p>My participation at Google CodeJam started in 2008. Since my first participation I always reached Round 2 (top 3000) and I reached three times Round 3 (top 500). Here's a summary of my participation since I started competing in GCJ:</p>
+                        <ul>
+                            <li><b>2016</b>
+                                <ul>
+                                    <li>Round 2: 1168th place.</li>
+                                </ul>
+                            </li>
+                            <li><b>2015</b>
+                                <ul>
+                                    <li>Round 3: 213th place.</li>
+                                    <li>Round 2: 463rd place.</li>
+                                </ul>
+                            </li>
+                            <li><b>2014</b>
+                                <ul>
+                                    <li>Round 2: 626th place.</li>
+                                </ul>
+                            </li>
+                            <li><b>2013</b>
+                                <ul>
+                                    <li>Round 2: 596th place.</li>
+                                </ul>
+                            </li>
+                            <li><b>2012</b>
+                                <ul>
+                                    <li>Round 2: 1198th place.</li>
+                                </ul>
+                            </li>
+                            <li><b>2011</b>
+                                <ul>
+                                    <li>Round 3: 408th place.
+                                    <li>Round 2: 280th place. Advanced to Round 3</li>
+                                </ul>
+                            </li>
+                            <li><b>2010</b>
+                                <ul>
+                                    <li>Round 2: 1440th place.</li>
+                                </ul>
+                            </li>
+                            <li><b>2009</b>
+                                <ul>
+                                    <li>Round 3: 294th place.</li>
+                                    <li>Round 2: 474th place. Advanced to Round 3</li>
+                                </ul>
+                            </li>
+                            <li><b>2008</b>
+                                <ul>
+                                    <li>Round 2: 1818th place.</li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

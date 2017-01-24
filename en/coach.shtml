@@ -1,0 +1,21 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Coach at ACM ICPC</h2>
+                        <p>My only experience as a coach was in 2015, and in the World Finals in 2016, as I've been problemsetter and jury of local competitions since I finished competing (role that is not compatible with being coach in Latin America), except for that year.</p>
+                        <p>In 2015 I coached six teams in the Argentina's Programming Tournament (TAP), three from Universidad de Buenos Aires (UBA), one from Universidad Nacional de La Plata (UNLP) and two from Universidad Nacional de Rosario (UNR). My team from UNLP (The Knights of the Hash Table) and my two teams from UNR (Flower Power and Caloventor en Dos) advanced to the Regionals. In the Regionals, The Knights of the Hash Table obtained the 7th place, and Caloventor en Dos won the region with 9 problems (current record for Argentina, tied with my team TVG in 2009) and advanced to the World Finals.</p>
+                        <p>In 2016 I participated as coach of the team Caloventor en Dos, from UNR, in the World Finals in Phuket, Thailand, obtaining the 32nd place and the Latin American Champions award.</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 
