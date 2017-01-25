@@ -1,0 +1,37 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Resultados en Olimpíadas de Matemática</h2>
+                        <p>Durante mis años como estudiante universitario participé en diversas olimpíadas y competencias de matemática. Mis principales resultados fueron los siguientes:</p>
+                            <ul>
+                                <li>Olimpíada Iberoamericana Universitaria de Matemática 2015: Medalla de Plata (<a href="http://oimu.eventos.cimat.mx/sites/oimu/files/oimu_2015_Resultados_DEFINITIVOS_v6.pdf">Resultados</a>). Obtuve el puntaje necesario para una medalla de oro (20 puntos con un mínimo de 18 para el oro) pero sólo otorgan una medalla de oro por país.</li>
+                                <li>Competencia Interuniversitaria de Matemática Argentina (CIMA) 2014: 4ta posición en equipo con Agustín Santiago Gutiérrez (<a href="https://sites.google.com/site/competenciacima/pruebas-anteriores/resultados-2014">Resultados</a>).</li>
+                                <li>Competencia Interuniversitaria de Matemática Argentina (CIMA) 2013: 6ta posición en equipo con Agustín Santiago Gutiérrez (<a href="https://sites.google.com/site/competenciacima/pruebas-anteriores/resultados-2013-1">Resultados</a>).</li>
+                                <li>Competencia Matemática "Ernesto Paenza" 2010: 8va posición y Mención de Honor en equipo con Nicolás Ponieman (<a href="http://cms.dm.uba.ar/cep/ant/resultados10.html">Resultados</a>).</li>
+                                <li>Competencia Matemática "Ernesto Paenza" 2009: 9na posición y Mención de Honor en equipo con Agustín Santiago Gutiérrez (<a href="http://cms.dm.uba.ar/cep/ant/resultados09.html">Resultados</a>).</li>
+                            </ul>
+                        <p>Durante mis años como estudiante de secundaria participé en Olimpíadas de Matemática obteniendo los siguientes resultados:</p>
+                            <ul>
+                                <li>Prueba de selección del equipo argentino para la Olimpíada Iberoamericana de Matemática 2006: Mención de Honor (<a href="http://oma.org.ar/internacional/resultados-ibe21sel.htm">Resultados</a>).</li>
+                                <li>Olimpíada Matemática de la Cuenca del Pacífico 2006: Medalla de Bronce (<a href="https://cms.math.ca/Competitions/APMO/results/apmo2006-res.pdf">Resultados</a>).</li>
+                                <li>Prueba de selección del equipo argentino para la Olimpíada Iberoamericana de Matemática 2005: Mención de Honor (<a href="http://oma.org.ar/internacional/resultados-ibe20sel.htm">Resultados</a>).</li>
+                                <li>Olimpíada Matemática de la Cuenca del Pacífico 2005: Mención de Honor (<a href="https://cms.math.ca/Competitions/APMO/results/apmo2005-res.pdf">Resultados</a>).</li>
+                                <li>Olimpíada Matemática Argentina, Certamen Nacional 2005: Mención de Honor (<a href="http://oma.org.ar/nacional/resultados-oma22nac.htm">Resultados</a>).</li>
+                                <li>Olimpíada Provincial de Buenos Aires 2005: Tercer lugar (<a href="http://oma.org.ar/nacional/resultados-oma05bue.htm">Resultados</a>).</li>
+                                <li>Prueba de selección del equipo argentino para la Olimpíada Internacional de Matemática 2005: Mención de Honor (<a href="http://oma.org.ar/internacional/resultados-imo46sel.htm">Resultados</a>).</li>
+                                <li>Olimpíada Matemática Argentina, Certamen Nacional 2004: Mención de Honor (<a href="http://oma.org.ar/nacional/resultados-oma21nac.htm">Resultados</a>).</li>
+                            </ul>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

@@ -1,0 +1,23 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Jurado y autor de problemas en ACM ICPC</h2>
+                        <p>En 2012, después de terminar mi participación como competidor en ACM ICPC, empecé a participar del jurado y como autor de problemas en distintas competencias de la ACM ICPC. Ese año escribí 3 problemas para el Torneo Argentino de Programación (TAP). Esos problemas fueron D (Diseño de Camisetas), E (Efecto Dominó) e I (Incobrable) (<a href="http://torneoprogramacion.com.ar/wp-content/uploads/2015/07/pruebaTAP2012.pdf">Link a la prueba</a>).</p>
+                        <p>En 2013 también escribí un problema para el TAP, el problema B (Boca de Urna) (<a href="http://torneoprogramacion.com.ar/wp-content/uploads/2015/07/pruebaTAP2013.pdf">Link a la prueba</a>). También escribí los problemas F (<a href="https://icpcarchive.ecs.baylor.edu/external/65/6530.pdf">Football</a>) e I (<a href="https://icpcarchive.ecs.baylor.edu/external/65/6533.pdf">Inverting Huffman</a>) de la Competencia Regional Latinoamericana.</p>
+                        <p>En 2014 escribí los problemas G (Ganar, gustar, golear y galantear) y J (Jurado despistado)para el TAP (<a href="http://torneoprogramacion.com.ar/wp-content/uploads/2015/07/pruebaTAP2014.pdf">Link a la prueba</a>), y el problema D (<a href="https://icpcarchive.ecs.baylor.edu/external/68/6824.pdf">Dividing the names</a>) para la Competencia Regional Latinoamericana.</p>
+                        <p>Luego de dejar el jurado por un año para ejercer el rol de entrenador en 2015, regresé en 2016 a estas tareas escribiendo los problemas E (El tío quejoso), F (¡Felicitaciones, Fidel!) y J (Juntando líneas) para el TAP (<a href="http://torneoprogramacion.com.ar/wp-content/uploads/2016/09/tap2016.pdf">Link a la prueba</a>).</p>
+                        <p>Durante todos estos años fue miembro del jurado en la sede de Buenos Aires tanto en el TAP como en la Competencia Regional Latinoamericana.</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

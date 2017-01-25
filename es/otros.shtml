@@ -1,0 +1,20 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Otras actividades</h2>
+                        <p>Actualmente poseo los títulos de Analista Universitario en Computación (2014) y Licenciado en Ciencias de la Computación (2016). En abril de 2017 comenzaré formalmente mi doctorado para el cual ya estoy trabajando.</p>
+                        <p>Además de programar y hacer matemática, en mi tiempo libre me gusta mucho jugar al tenis (soy fan de Roger Federer), tocar la guitarra (tengo como referentes a Brian May y Eric Clapton). Soy un gran fan del Club de Gimnasia y Esgrima La Plata, al cual me gusta mucho ir a ver a la cancha cuando juega el equipo de fútbol pero también me gusta seguir otros deportes del club (principalmente fútbol y basquet pero también otros deportes como voley o futsal)</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

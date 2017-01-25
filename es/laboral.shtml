@@ -1,0 +1,22 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Experiencia laboral</h2>
+                        <p><b>Medallia:</b> Pasantía de seis meses en el equipo Platform entre Septiembre 2015 y Marzo 2016 trabajando para Santiago Pérez González y Guido De Caso. Durante esta pasantía estuve a cargo de desarrollar un algoritmo de compresión para optimizar el uso de memoria, lo que llevó a una optimización en el uso del hardware.</p>
+                        <p><b>Facebook:</b> Pasantía de tres meses en el equipo Ads Delivery entre Enero y Abril 2015 trabajando para Nikola Mihajlovic. Durante esta pasantía estuve a cargo de desarrollar un load balancer entre dos arquitecturas de bases de datos internas de la empresa para optimizar el tiempo de consulta.</p>
+                        <p><b>Avalancha.com:</b> Cuatro meses como parte del equipo de desarrollo entre Febrero y Mayo de 2014. La empresa se fundó en Noviembre 2013 y durante mi tiempo en la empresa estuve a cargo de muchas tareas tanto relacionadas como no relacionadas con el desarrollo de software para el sitio web.</p>
+                        <p><b>Google:</b> Pasantía de tres meses en el equipo Mobile Search Ads entre Enero y Marzo 2012 trabajando para Deepak Chandra y Jay Akkad. Durante mi pasantía estuve a cargo de analizar diferentes alternativas para un nuevo producto que Google quería implementar en Ads. Fui asignado a un proyecto de desarrollo distinto del que terminé trabajando ya que en mi primer semana mi proyecto original fue reasignado a un empleado full time del equipo.</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

@@ -1,0 +1,23 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Participación en otras competencias de programación</h2>
+                        <p>Además de las competencias ya listadas en este sitio, he participado de:</p>
+                        <ul>
+                            <li><b>Facebook Hacker Cup:</b> Alcanzando la 3ra ronda (top 200) en 2016 como mi mejor resultado. En 2015 durante mi pasantía en Facebook fui el autor del problema C (<a href="https://www.facebook.com/hackercup/problem/847639175277938/">Gentrification</a>) de la tercera ronda y parte del equipo que armó y testeó la prueba de la final.</li>
+                            <li><b>CodeForces:</b> Alcanzando un puntaje en el ranking de 2009 (<a href="http://codeforces.com/profile/ltaravilse">Link a mi perfil</a>).</li>
+                            <li><b>HackerRank:</b> Alcanzando el top 1% del ranking (<a href="https://www.hackerrank.com/ltaravilse">Link a mi perfil</a>).</li>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

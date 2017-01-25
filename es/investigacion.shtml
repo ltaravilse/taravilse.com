@@ -1,0 +1,21 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Experiencia en investigación</h2>
+                        <p>Comencé trabajando en investigación con mi tesis de Licenciatura, la cual defendí en enero de 2016. Mi tesis, dirigida por la Dra. Flavia Bonomo (Universidad de Buenos Aires y CONICET, Argentina) y el Dr. Martín Eduardo Frías Armenta (Universidad de Sonora, México) fue titulada "Sobre la aplicación iterada del operador clique en grafos y su convergencia lineal".</p>
+                        <p>En 2016 trabajé en Teoría de Grafos y Complejidad Computacional, presentando el trabajo de mi tesis de Licenciatura en el Latin American Workshop on Cliques in Graphs 2016 y siendo coautor de un trabajo titulado "On the parameterized complexity of finding all the cliques of a graph" con Ismael Robles y Miguel Pizaña. Los abstracts de ambos trabajos se pueden encontrar en <a href="http://www.mate.unlp.edu.ar/~liliana/lawclique_2016/prolist.pdf">este link</a>.</p>
+                        <p>Comencé mi trabajo con la Dra. Verónica Becher (Universidad de Buenos Aires y Conicet, Argentina) en números normales, secuencias de De Bruijn y collares perfectos en enero de 2017.</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

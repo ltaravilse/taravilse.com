@@ -1,0 +1,43 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Experiencia docente</h2>
+                        <p>Desde 2012 trabajé como docente en distintos cursos en la carrera de Ciencias de la Computación de la Universidad de Buenos Aires. Estos fueron mis cursos y roles:</p>
+                        <ul>
+                            <li><b>Jefe de Trabajos Prácticos:</b> A cargo de coordinar las clases prácticas y las actividades de los ayudantes. Cursos dictados:
+                                <ul>
+                                    <li><b>Problemas, Algoritmos y Programación:</b> Segundo cuatrimestre de 2016. Materia optativa de la cual estuve a cargo de las clases teóricas y prácticas.</li>
+                                    <li><b>Algoritmos y Estructuras de Datos I:</b> Segundo cuatrimestre de 2016.</li>
+                                    <li><b>Algoritmos y Estructuras de Datos III:</b> Primer cuatrimestre de 2016.</li>
+                                </ul>
+                            </li>
+                            <li><b>Ayudante de Primera:</b> Ayudante con título de grado. Este rol tiene más responsabilidades que el Ayudante de Segunda. Cursos dictados:
+                                <ul>
+                                    <li><b>Taller de Álgebra:</b> Curso de verano 2017</li>
+                                    <li><b>Algoritmos y Estructuras de Datos III:</b> Segundo cuatrimestre de 2015.</li>
+                                    <li><b>Algoritmos y Estructuras de Datos II:</b> Primer cuatrimestre de 2015.</li>
+                                    <li><b>Sistemas Operativos:</b> Primer cuatrimestre de 2015.</li>
+                                </ul>
+                            </li>
+                            <li><b>Ayudante de Segunda:</b> Ayudante como alumno de una carrera de grado. Cursos dictados:
+                                <ul>
+                                    <li><b>Algoritmos y Estructuras de Datos III:</b> Primer cuatrimestre de 2015.</li>
+                                    <li><b>Sistemas Operativos:</b> Segundo cuatrimestre de 2014.</li>
+                                    <li><b>Algoritmos y Estructuras de Datos I:</b> Segundo cuatrimestre de 2012.</li>
+                                </ul>
+                            </li>
+                        </ul>  
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

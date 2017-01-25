@@ -1,0 +1,22 @@
+<!--#include virtual="/header-es.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Participación y Autor de Problemas en TopCoder</h2>
+                        <p>Participo en TopCoder desde 2008, habiendo participado de más de 200 competencias de algoritmos y 30 competencias Marathon Match, alcanzando un puntaje rojo de 2242 en el ranking (los participantes se dividen por color en el ranking siendo rojo el más alto de todos). Estuve en el top 3% rankeado 245 a nivel mundial como mi mejor ranking.</p>
+                        <p>También escribí más de 30 problemas para competencias de TopCoder, incluyendo un problema para un TopCoder Open. Una lista de los problemas que escribí puede ser encontrada en <a href="https://www.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=ltaravilse">este link</a></p>
+                        <p>En 2017 fui elegido por la comunidad como miembro del Community Advisory Board (CAB) convirtiendome en un intermediario entre la comunidad y TopCoder</p>
+                        <p><a href="https://www.topcoder.com/members/ltaravilse">Link a mi perfil de TopCoder</a></p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 
