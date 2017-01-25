@@ -1,0 +1,21 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Entrenador en ACM ICPC</h2>
+                        <p>Mi única experiencia como entrenador fue en 2015 y en la final mundial de 2016, dado que fui jurado y autor de problemas desde que dejé de competir hasta la fecha, excepto por ese año.</p>
+                        <p>En 2015 entrené seis equipos en el Torneo Argentino de Programación (TAP), tres de la Universidad de Buenos Aires (UBA), uno de la Universidad Nacional de La Plata (UNLP) y dos de la Universidad Nacional de Rosario (UNR). Mi equipo de la UNLP (The Knights of the Hash Table) y mis dos equipos de la UNR (Flower Power y Caloventor en Dos) avanzaron a las regionales. En las regionales The Knights of the Hash Table obtuvo el septimo puesto, y Caloventor en Dos ganó la región con 9 problemas (récord vigente en Argentina, empatado con el equipo TVG que integré en 2009) y avanzó a la final mundial.</p>
+                        <p>En 2016 participé como entrenador del equipo Caloventor en Dos, de la Universidad Nacional de Rosario, en la final mundial en Phuket, Tailandia, obteniendo el puesto 32 y el premio de Campeones Latinoamericanos.</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 
