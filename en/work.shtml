@@ -1,0 +1,22 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Work experience</h2>
+                        <p><b>Medallia:</b> Six months internship in the Platform team from September 2015 to March 2016 working for Santiago Pérez González and Guido De Caso. During this internship I was in charge of developing a compression algorithm to optimize the memory usage and that lead to a hardware usage optimization.</p>
+                        <p><b>Facebook:</b> Three months internship in the Ads Delivery team from January to April 2015 working for Nikola Mihajlovic. During this internship I was in charge of developing a load balancer between two internal database architectures for optimizing the time spent on each query.</p>
+                        <p><b>Avalancha.com:</b> Four months as part of the development team of the site avalancha.com from February to May 2014. The company started in November 2013 and during this time I was in charge of many development tasks and also tasks not related with the development of the website.</p>
+                        <p><b>Google:</b> Three months internship in the Mobile Search Ads team from January to March 2012 working for Deepak Chandra and Jay Akkad. During this internship I was in charge of analyzing different alternatives for a new feature that Google wanted to implement in Ads, I was assigned a different development project before my internship but it was changed in my first week as my manager assigned this project to a full time employee.</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

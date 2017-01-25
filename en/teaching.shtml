@@ -1,0 +1,43 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Teaching experience</h2>
+                        <p>Since 2012 I worked on several courses as Teaching Assistant and Head Teaching Assistant. This were my courses and roles on them:</p>
+                        <ul>
+                            <li><b>Head Teaching Assistant:</b> In charge of coordinating the practical courses and all the other Teaching Assistants. Courses given:
+                                <ul>
+                                    <li><b>Problems, Algorithms and Programming:</b> Second Semester 2016. Elective course (I was in charge of both theorical and practical courses)</li>
+                                    <li><b>Algorihtms and Data Structures I:</b> Second Semester 2016.</li>
+                                    <li><b>Algorihtms and Data Structures III:</b> First Semester 2016.</li>
+                                </ul>
+                            </li>
+                            <li><b>First Class Teaching Assistant:</b> Teaching Assistant with a completed degree. This role has more responsibilites than a Second Class Teaching Assistant. Courses given:
+                                <ul>
+                                    <li><b>Algebra Workshop:</b> Summer course 2017</li>
+                                    <li><b>Algorihtms and Data Structures III:</b> Second Semester 2015.</li>
+                                    <li><b>Algorihtms and Data Structures II:</b> First Semester 2015.</li>
+                                    <li><b>Operative Systems:</b> First Semester 2015.</li>
+                                </ul>
+                            </li>
+                            <li><b>Second Class Teaching Assistant:</b> Student Teaching Assistant. Courses given:
+                                <ul>
+                                    <li><b>Algorihtms and Data Structures III:</b> First Semester 2015.</li>
+                                    <li><b>Operative Systems:</b> Second Semester 2014.</li>
+                                    <li><b>Algorihtms and Data Structures I:</b> Second Semester 2012.</li>
+                                </ul>
+                            </li>
+                        </ul>  
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

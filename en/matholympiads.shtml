@@ -1,0 +1,39 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Results in Mathematical Olympiads</h2>
+                        <p>During my years in university I participated in several mathematical olympiads. My main results are the following ones:</p>
+                            <ul>
+                                <li>Iberoamerican Mathematical Olympiad for University Students 2015: Silver Medal (<a href="http://oimu.eventos.cimat.mx/sites/oimu/files/oimu_2015_Resultados_DEFINITIVOS_v6.pdf">Link to results</a>). I had the score for a achieving a Gold Medal (I scored 20 points, 18 was the minimum for Gold) but only one Gold Medal is awarded per country.</li>
+                                <li>Mathematical Competition for University Students in Argentina (CIMA) 2014: 4th place in team with Agustín Santiago Gutiérrez (<a href="https://sites.google.com/site/competenciacima/pruebas-anteriores/resultados-2014">Link to results</a>).</li>
+                                <li>Mathematical Competition for University Students in Argentina (CIMA) 2013: 6th place in team with Agustín Santiago Gutiérrez (<a href="https://sites.google.com/site/competenciacima/pruebas-anteriores/resultados-2013-1">Link to results</a>).</li>
+                                <li>Mathematical Competition "Ernesto Paenza" 2010: 8th place and Honorable Mention in team with Nicolás Ponieman (<a href="http://cms.dm.uba.ar/cep/ant/resultados10.html">Link to results</a>).</li>
+                                <li>Mathematical Competition "Ernesto Paenza" 2009: 9th place and Honorable Mention in team with Agustín Santiago Gutiérrez (<a href="http://cms.dm.uba.ar/cep/ant/resultados09.html">Link to results</a>).</li>
+                            </ul>
+                        <p>During my years in High School I participated in Maths Olympiads obtaining the following results:</p>
+                            <ul>
+                                <li>Iberoamerican Mathematical Olympiad, Argentina's team selection test 2006: Honorable Mention (<a href="http://oma.org.ar/internacional/resultados-ibe21sel.htm">Link to results</a>).</li>
+                                <li>Asian Pacific Mathematical Olympiad 2006: Bronze Medal (<a href="https://cms.math.ca/Competitions/APMO/results/apmo2006-res.pdf">Link to results</a>).</li>
+                                <li>Iberoamerican Mathematical Olympiad, Argentina's team selection test 2005: Honorable Mention (<a href="http://oma.org.ar/internacional/resultados-ibe20sel.htm">Link to results</a>).</li>
+                                <li>Asian Pacific Mathematical Olympiad 2005: Honorable Mention (<a href="https://cms.math.ca/Competitions/APMO/results/apmo2005-res.pdf">Link to results</a>).</li>
+                                <li>Argentina's National Mathematical Olympiad 2005: Honorable Mention (<a href="http://oma.org.ar/nacional/resultados-oma22nac.htm">Link to results</a>).</li>
+                                <li>Buenos Aires Province Mathematical Olympiad 2005: Third place (<a href="http://oma.org.ar/nacional/resultados-oma05bue.htm">Link to results</a>).</li>
+                                <li>International Mathematical Olimpyad, Argentina's team selection test 2005: Honorable Mention (<a href="http://oma.org.ar/internacional/resultados-imo46sel.htm">Link to results</a>).</li>
+                                <li>Argentina's National Mathematical Olympiad 2004: Honorable Mention (<a href="http://oma.org.ar/nacional/resultados-oma21nac.htm">Link to results</a>).</li>
+
+                            </ul>
+                        <p><b>Note:</b> Unfortunately most of the links are in Spanish as there are no results available in English.</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

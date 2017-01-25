@@ -1,0 +1,33 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Courses I've given</h2>
+                        <p>I've dictated several courses (besides my courses as TA in university) in the last years. All of them were training courses for competitive programming and are listed here:</p>
+                        <ul>
+                            <li><b>Argentina's Training Camp:</b> I've been professor and director of Argentina's Training Camp. I've been dictating this course since 2011 in the following places:
+                                <ul>
+                                    <li><b>2016:</b> Universidad Nacional del Comahue, Neuquén</li>
+                                    <li><b>2015:</b> Universidad Nacional del Sur, Bahía Blanca</li>
+                                    <li><b>2014:</b> Universidad de Buenos Aires, Buenos Aires</li>
+                                    <li><b>2013:</b> Universidad Nacional de La Plata, La Plata</li>
+                                    <li><b>2012:</b> Universidad Nacional de Córdoba, Córdoba</li>
+                                    <li><b>2011:</b> Universidad de Buenos Aires, Buenos Aires</li>
+                                </ul>
+                                <a href="http://trainingcamp.org.ar">Link to the Training Camp's website</a> that I mantain with Agustín Santiago Gutiérrez
+                            </li>
+                            <li><b>Programming Camp in CCBOL</b> - La Paz 2016 (<a href="https://www.facebook.com/ccbol2016lapaz/">Link to website</a>).</li>
+                            <li><b>Peruvian Programming Camp</b> 2013 (<a href="https://sites.google.com/a/ucsp.edu.pe/perucamp2013/">Link to website</a>).</li>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 

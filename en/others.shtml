@@ -1,0 +1,19 @@
+<!--#include virtual="/header-en.shtml"-->
+<body>
+    <div id="wrapper">  
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Other activities</h2>
+                        <p>Besides programming, in my spare time I like playing tennis (I'm a big fan of Roger Federer), playing the guitar (I like Brian May and Eric Clapton as guitarists a lot!). I'm a big fan of Gimnasia y Esgrima La Plata, I like going to its stadium to watch the team's football (soccer) matches but I also follow all the sports played by the club's team: mainly football and basketball but also other sports like volleyball or futsal (<a href="https://en.wikipedia.org/wiki/Futsal">a variant of football</a>)</p>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html> 
